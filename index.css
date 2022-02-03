@@ -1,0 +1,32 @@
+form{
+    background-color:  #e3f2fd;
+
+    border: solid #fff;
+    text-align: center;
+    justify-content: center;
+   
+}
+.footer{
+    text-align: center;
+    justify-content: center;
+}
+.para1{
+    text-align: center;
+    justify-content: center;
+    
+}
+#name,#number,#exampleInputEmail1{
+    font-weight: bolder;
+}
+h3{
+    text-align: center;
+    justify-content: center;
+    
+}
+.card{
+    flex-direction: column;
+}
+#nav-item{
+    right: 100%;
+}
+
